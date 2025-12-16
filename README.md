@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
 
+![Stats do SouthPortela](https://github-readme-stats.vercel.app/api?username=SouthPortela&show_icons=true&theme=dracula&hide_border=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthPortela&layout=compact&theme=dracula&hide_border=true)
+
+</div>
 <!--
 **SouthPortela/SouthPortela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
