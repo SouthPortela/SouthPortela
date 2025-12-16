@@ -1,5 +1,5 @@
 ## 👋 Marcos Portela
-C student | Blue Teamer | Cybersecurity enthusiast |   
+C student | Blue Team (Defensive Security) | Cybersecurity enthusiast  
 Arch Linux • Neovim • C/C++ • FreeBSD
 
 ### 🧠 About me
@@ -12,7 +12,7 @@ Arch Linux • Neovim • C/C++ • FreeBSD
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,arch,vim,git,github,bash" />
+    <img src="https://skillicons.dev/icons?i=c,linux,arch,vim,git,bash,docker" />
   </a>
 </div>
 
