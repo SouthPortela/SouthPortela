@@ -1,10 +1,13 @@
-<div align="center">
+## 👋 Marcos Portela
+C student | Blue Teamer | Cybersecurity enthusiast |   
+Arch Linux • Neovim • C/C++ • FreeBSD
 
-![Stats do SouthPortela](https://github-readme-stats.vercel.app/api?username=SouthPortela&show_icons=true&theme=dracula&hide_border=true)
+### 🧠 About me
+- 🎓 Studying Data Structures and Algorithms
+- 🖥️ Focused on C and low-level programming
+- ⚙️ Linux user (Hyprland + Neovim)
+- 🔐 Interested in cybersecurity fundamentals
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthPortela&layout=compact&theme=dracula&hide_border=true)
-
-</div>
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
@@ -12,10 +15,13 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,linux,arch,vim,git,github,bash" />
   </a>
 </div>
+
+### 🐍 Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouthPortela/SouthPortela/output/github-contribution-grid-snake-dark.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/SouthPortela/SouthPortela/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 <!--
