@@ -8,7 +8,7 @@ Arch Linux • Neovim • C/C++ • FreeBSD
 - ⚙️ Linux user (Hyprland + Neovim)
 - 🔐 Interested in cybersecurity fundamentals
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tools & Technologies
 
 <div align="center">
   <a href="https://skillicons.dev">
