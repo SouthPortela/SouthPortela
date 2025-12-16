@@ -5,6 +5,14 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthPortela&layout=compact&theme=dracula&hide_border=true)
 
 </div>
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,arch,vim,git,github,bash,mysql" />
+  </a>
+</div>
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 <!--
 **SouthPortela/SouthPortela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
