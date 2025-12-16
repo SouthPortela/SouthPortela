@@ -12,7 +12,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,linux,arch,vim,git,github,bash,mysql" />
   </a>
 </div>
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/SouthPortela/SouthPortela/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **SouthPortela/SouthPortela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
