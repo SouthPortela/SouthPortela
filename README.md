@@ -5,7 +5,7 @@ Arch Linux • Neovim • C/C++ • FreeBSD
 ### 🧠 About me
 - 🎓 Studying Data Structures and Algorithms
 - 🖥️ Focused on C and low-level programming
-- ⚙️ Linux user (Hyprland + Arch)
+- ⚙️ Linux user
 - 🔐 Interested in cybersecurity fundamentals
 
 ### 🛠️ Tools & Technologies
