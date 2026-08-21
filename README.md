@@ -1,18 +1,19 @@
 ## 👋 Marcos Portela
-C student | Blue Team (Defensive Security) | Cybersecurity enthusiast  
-Arch Linux • Neovim • C/C++ • FreeBSD
+IT Professional | Infrastructure & Networks | Cybersecurity | Development  
+Linux • Neovim • C/C++ • FreeBSD • Docker
 
 ### 🧠 About me
-- 🎓 Studying Data Structures and Algorithms
-- 🖥️ Focused on C and low-level programming
-- ⚙️ Linux user
-- 🔐 Interested in cybersecurity fundamentals
+- 🎓 Graduated in Cybersecurity | Currently studying Information Systems
+- 💼 Working with IT Infrastructure, focusing on Blue Team operations and network defense
+- 🖥️ Programming: Focused on C, Java, and low-level concepts
+- ⚙️ Linux enthusiast (Arch on the notebook, Debian/RHEL on servers) & Homelab builder
+- 🔐 Passionate about cybersecurity fundamentals, Docker, and self-hosted services
 
 ### 🛠️ Tools & Technologies
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,linux,arch,vim,git,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=c,java,linux,arch,vim,git,bash,docker" />
   </a>
 </div>
 
@@ -21,20 +22,3 @@ Arch Linux • Neovim • C/C++ • FreeBSD
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouthPortela/SouthPortela/output/github-contribution-grid-snake-dark.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/SouthPortela/SouthPortela/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-<!--
-**SouthPortela/SouthPortela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
